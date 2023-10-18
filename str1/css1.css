@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+			<style>
+			*{
+				
+				  margin: 0;
+				  padding: 0;
+				  box-sizing: border-box;
+			  
+			}
+	
+			body{
+			
+				background-color:#181a18;
+				font-family:poppins;
+
+			}
+		
+			header{
+			
+				color:#6F6B6A;
+				font-size:20;
+				height:11vh;
+				width:99vw;
+				background-color: #161716;
+				
+			}
+			
+			.kontenermenu{
+			
+				margin-right: 10vw;
+			
+			}
+			
+			.logomenu{
+				
+				margin-left:5vw;
+				margin-top:3vh;
+				list-style:none;
+				float:left;
+			
+			}
+			.opcjamenu{
+			
+				-webkit-touch-callout: none;
+				-webkit-user-select: none; 
+				-khtml-user-select: none; 
+				-moz-user-select: none;
+				-ms-user-select: none; 
+				 user-select: none;
+													 
+				margin-top:3.5vh;
+				padding-right:2vw;
+				float:right;
+				display:block;
+				list-style:none;
+				margin-left:20;
+				display: inline;
+				white-space: nowrap;
+			
+			}
+			
+			.opcjamenu:hover{ 
+			
+				color:#B48752;
+			
+			}
+			
+			.logo{
+			
+				height:39px;
+			
+			}
+			
+			.ogloszenia{
+			
+				
+				display:flex;
+				justify-content:center;
+				float:top;
+				background-color:#161716;
+				width:99vw;
+				height:87vh;	
+			
+			}
+			
+			.produkty{
+				
+				color: #6F6B6A;
+				margin-top:1vh;
+				text-align:center;
+				font-size:15px;
+				word-spacing:4px;
+				
+			}
+			
+			.kategorie(
+				list-style:none;
+			)
+			
+			
+			
+
+			
+		
